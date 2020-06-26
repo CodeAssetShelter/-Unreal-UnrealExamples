@@ -1,2 +1,22 @@
-[BluePrint] Barrel Hopper
+[Blueprint] Barrel Hopper
 https://drive.google.com/file/d/18WX4jiIFDs7TGXOomvv5_FWjZeEj_sZ7/view?usp=sharing
+
+[ADD] Character Move
+[ADD] Map Brush
+[ADD] Obstacle Barrel
+
+
+
+------------------------------------------------
+
+[Blueprint] Barrel Hopper Update
+https://drive.google.com/file/d/1VpN3nV_xufpQ6gXjE7gm7HgdRDbtX3aH/view?usp=sharing
+
+
+[ADD] Character Animation
+[ADD] Character Walk, Jump, Death Sound
+[ADD] Character Ragdoll
+[ADD] Character Respawn
+[ADD] Destroy Barrel Sound
+[ADD] Func RestartGame
+[ADD] Func EndGame Trigger
